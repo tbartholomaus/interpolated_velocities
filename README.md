@@ -17,6 +17,7 @@ python -m ipykernel install --user --name=greenlandMapping
 jupyter lab
 ```
 
+## Acknowledgement
 This repository/project is built off of and using the tools of https://github.com/fastice/GrIMPNotebooks.
 Tim Bartholomaus acknowledges the critical work of Ian Joughin in making both the satellite products available, and also facilitating their use
 through open source software development.
